@@ -1,0 +1,15 @@
+
+
+ pyexpat.pyd*
+ python-3.9.12-embed-amd64.zip
+ python.cat
+ python.exe*
+ python3.dll*
+ python39._pth
+ python39.dll*
+ python39.zip
+ pyth
+
+
+
+
