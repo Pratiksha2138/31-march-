@@ -1,3 +1,5 @@
 <<<<<<< HEAD
  hingmire 
 new code
+    01:14:18 - Architecture of VCS  
+    01:21:52 - Installation of Git Bash and Git  
